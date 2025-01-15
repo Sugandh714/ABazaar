@@ -157,7 +157,7 @@ class RequestAmountPage extends StatelessWidget {
                                   ),
                                 ),
                               )),
-                          Text('You can only send \₹54.24',
+                          Text('You can only send \₹9424',
                               style: TextStyle(color: Colors.white54)),
                         ],
                       ),
@@ -186,7 +186,7 @@ class RequestAmountPage extends StatelessWidget {
                                     fontSize: 10.0),
                               ),
                               Text(
-                                '90.00',
+                                '8927.00',
                                 style: TextStyle(fontWeight: FontWeight.bold),
                               ),
                             ],
@@ -209,7 +209,7 @@ class RequestAmountPage extends StatelessWidget {
                                     fontSize: 10.0),
                               ),
                               Text(
-                                '90.00',
+                                '8927.00',
                                 style: TextStyle(fontWeight: FontWeight.bold),
                               ),
                             ],
@@ -232,7 +232,7 @@ class RequestAmountPage extends StatelessWidget {
                                     fontSize: 10.0),
                               ),
                               Text(
-                                '90.00',
+                                '8927.00',
                                 style: TextStyle(fontWeight: FontWeight.bold),
                               ),
                             ],
@@ -255,7 +255,7 @@ class RequestAmountPage extends StatelessWidget {
                                     fontSize: 10.0),
                               ),
                               Text(
-                                '90.00',
+                                '8927.00',
                                 style: TextStyle(fontWeight: FontWeight.bold),
                               ),
                             ],
@@ -278,7 +278,7 @@ class RequestAmountPage extends StatelessWidget {
                                     fontSize: 10.0),
                               ),
                               Text(
-                                '90.00',
+                                '8927.00',
                                 style: TextStyle(fontWeight: FontWeight.bold),
                               ),
                             ],

@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class CreditCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return  Container(
+    return Container(
       height: 200,
       width: 250,
       padding: EdgeInsets.all(16.0),
@@ -36,7 +36,7 @@ class CreditCard extends StatelessWidget {
                 style: TextStyle(color: Colors.grey),
               ),
               Text(
-                'GEORGE W BUSH',
+                'Nivasu',
                 style: TextStyle(color: Colors.white),
               ),
             ],

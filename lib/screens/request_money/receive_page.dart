@@ -62,7 +62,7 @@ class ReceivePaymentPage extends StatelessWidget {
                                   ),
                                 ),
                                 SizedBox(width: 8.0),
-                                Text('54.24',
+                                Text('9424',
                                     style: TextStyle(
                                         color: Colors.black,
                                         fontSize: 48,

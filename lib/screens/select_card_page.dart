@@ -122,7 +122,7 @@ class SelectCardPage extends StatelessWidget {
                           Column(
                             crossAxisAlignment: CrossAxisAlignment.end,
                             children: <Widget>[
-                              Text('Roberto',
+                              Text('Nivasu',
                                   style: TextStyle(
                                       fontWeight: FontWeight.bold,
                                       fontSize: 10.0)),
@@ -175,7 +175,7 @@ class SelectCardPage extends StatelessWidget {
                                         fontSize: 10.0),
                                   ),
                                   Text(
-                                    '90.00',
+                                    '8927.00',
                                     style: TextStyle(
                                         fontWeight: FontWeight.bold,
                                         fontSize: 20.0),

@@ -99,7 +99,7 @@ class _WalletPageState extends State<WalletPage> with TickerProviderStateMixin {
                           ),
                         ),
                         SizedBox(width: 8.0),
-                        Text('54.24',
+                        Text('9424',
                             style: TextStyle(
                                 color: Colors.black,
                                 fontSize: 48,
@@ -304,7 +304,7 @@ class _WalletPageState extends State<WalletPage> with TickerProviderStateMixin {
                               Padding(
                                 padding:
                                     const EdgeInsets.symmetric(vertical: 8.0),
-                                child: Text('Dicount Voucher',
+                                child: Text('Discount Voucher',
                                     style: TextStyle(
                                         color: Colors.grey,
                                         fontSize: 16.0,

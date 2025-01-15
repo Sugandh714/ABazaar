@@ -194,7 +194,7 @@ class _PaymentHistoryPageState extends State<PaymentHistoryPage> {
                                                                                 TextStyle(fontWeight: FontWeight.bold, fontSize: 10.0),
                                                                           ),
                                                                           Text(
-                                                                            '90.00',
+                                                                            '8927.00',
                                                                             style:
                                                                                 TextStyle(fontWeight: FontWeight.bold),
                                                                           ),

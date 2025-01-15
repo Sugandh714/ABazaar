@@ -42,13 +42,13 @@ class ProductDisplay extends StatelessWidget {
                             fontWeight: FontWeight.w400,
                             fontFamily: "Montserrat",
                             fontSize: 36.0)),
-                    TextSpan(
-                        text: '.58',
-                        style: const TextStyle(
-                            color: const Color(0xFFFFFFFF),
-                            fontWeight: FontWeight.w400,
-                            fontFamily: "Montserrat",
-                            fontSize: 18.0))
+                    // TextSpan(
+                    //     text: '.58',
+                    //     style: const TextStyle(
+                    //         color: const Color(0xFFFFFFFF),
+                    //         fontWeight: FontWeight.w400,
+                    //         fontFamily: "Montserrat",
+                    //         fontSize: 18.0))
                   ])),
                 ))),
         Align(

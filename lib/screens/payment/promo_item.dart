@@ -134,7 +134,7 @@ class PromoItem extends StatelessWidget {
                   'assets/headphones.png',
                   'Boat roackerz 400 On-Ear Bluetooth Headphones',
                   'description',
-                  45.3),
+                  1209),
               onPressed: () {},
             ),
           ),

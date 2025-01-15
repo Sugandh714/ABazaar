@@ -145,7 +145,7 @@ class QuickSendAmountPage extends StatelessWidget {
                                           ),
                                         ),
                                       )),
-                                  Text('You can only send \₹54.24',
+                                  Text('You can only send \₹9424',
                                       style: TextStyle(color: Colors.white54)),
                                 ],
                               ),
